@@ -3,7 +3,24 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
+    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 건양대학교 졸업 </h2>
+    
+##### 의공학과
+##### 2018.02 ~ 2024.02
+    
+</div>
+
+<div align="center">
+    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 삼성 청년 SW 아카테미  </h2>
+    
+##### Python반 1학기 과정 수료
+##### 2024.01 ~ 2024.05
+  
+</div>
+
+<br>
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎖️ Certification </h2>
     
 #### 정보처리기사 (2023.09.01)
 #### SQL Developer (2024.06.21)
