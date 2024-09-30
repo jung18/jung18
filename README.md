@@ -4,7 +4,10 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개내용 </div>
+    
+#### 정보처리기사 (2023.09.01)
+#### SQL Developer (2024.06.21)
+
 </div>
 <br>
 <div align="center">
