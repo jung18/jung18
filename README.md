@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 건양대학교 졸업 </h2>
+    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 건양대학교 </h2>
     
-##### 의공학과
+##### 의공학과 졸업
 ##### 2018.02 ~ 2024.02
     
 </div>
