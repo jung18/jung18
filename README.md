@@ -13,8 +13,8 @@
 <div align="center">
     <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 삼성 청년 SW 아카데미  </h2>
     
-##### 1학기 과정 수료
-##### 2024.01 ~ 2024.05
+##### python 과정 수료
+##### 2024.01 ~ 2024.12
   
 </div>
 
